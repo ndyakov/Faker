@@ -30,6 +30,7 @@
     "extra": {
         "branch-alias": {
             "dev-master": "1.8-dev"
+            "dev-bg_BG": "1.8-dev-bg_BG"
         }
     }
 }
